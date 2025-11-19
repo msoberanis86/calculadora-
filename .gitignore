@@ -23,3 +23,19 @@ dist-ssr
 *.sln
 *.sw?
 
+# Android/iOS builds
+android/app/build/
+android/.gradle/
+ios/App/build/
+ios/Pods/
+ios/DerivedData/
+
+# APKs y archivos de firma
+*.apk
+*.keystore
+*.jks
+apk/
+
+# Capacitor
+.capacitor/
+
